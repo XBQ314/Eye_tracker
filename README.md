@@ -15,11 +15,11 @@ This repository contains various source files of the eye tracking device we made
 
   Including the OV5640 config file and the file that finally runs in the jupyter notebook
 
-  # Environment for this project
+# Environment for this project
 
-  1. Vivado `2018.3`
-  2. PYNQ-Z2 board with `image v2.4`
-  3. A web browser (eg. Chrome) or IDE supporting `Jupyter Notebook`
+1. Vivado `2018.3`
+2. PYNQ-Z2 board with `image v2.4`
+3. A web browser (eg. Chrome) or IDE supporting `Jupyter Notebook`
 
 
 
