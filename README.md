@@ -2,8 +2,6 @@
 
 This repository contains various source files of the eye tracking device we made. The eye tracking device uses the OV5640 camera. The programmable logic device (PL) part of the PYNQ-Z2 development board realizes the parallel acceleration of the pupil extraction algorithm. A visual interface is designed on the PS side and the extracted pupil center coordinates are passed through the serial port. Send it out. At present, we use this coordinate to control the yaw angle of the UAV, and explore the possibility of using this eye tracking device.
 
-![general_picture](E:\为了让桌面看上去更干净的文件夹\文档\SRTP事件\PLD\国赛要交的文件\Eye_tracker\general_picture.jpg)
-
 # Folder Structure
 
 + PL_design
